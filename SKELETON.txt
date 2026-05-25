@@ -1,0 +1,6 @@
+/etc/lowzin/         # Main config and build scripts
+/usr/portage/        # Funtoo/Gentoo portage tree
+/bedrock/            # Multi-userland overlay management
+/usr/share/hyprland/ # Hyprland configs
+/opt/cybertools/     # Set of core security utilities
+/home/user/.config/  # User customizations (shell, tmux, hyprland, etc)
